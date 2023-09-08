@@ -1,0 +1,107 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.search-bar{
+    width: 40%!important;
+    margin-left:10%;
+}
+
+img.trending-img{
+
+    height: 250px !important;
+    width:200px !important ;
+
+}
+img.trending-cate {
+
+    height: 250px !important;
+    width:200px !important ;
+
+}
+
+
+a:hover, /* OPTIONAL*/
+a:visited,
+a:focus
+{text-decoration: none !important;}
+
+.divcartRemovebutton {
+    position:relative;
+}
+.cartRemovebutton{
+
+    position:absolute;
+    left:150px!important;
+
+}
+
+.cartRemovebutton2{
+
+    position:absolute;
+    left:80px!important;
+
+}
+
+.total-price-div{
+    position:relative;
+}
+#total-price{
+
+    position:absolute;
+    left:450px!important;
+}
+
+#total-price-value{
+    position:absolute;
+    left:560px!important; 
+}
+/* .returnToHome{
+    position:absolute;
+    top:100px!important;
+} */
+
+
+.PositionWishlistCount{
+
+    position:relative;
+
+}
+
+.PositionWishlistSpan{
+
+    position:absolute;
+    left:31px;
+    bottom: 24px!important;
+
+}
+
+.PositionCartCount{
+    position:relative;
+}
+
+.PositionCartSpan{
+
+    position:absolute;
+    left:34px;
+    bottom: 24px!important;
+
+}
+
+.PYOdiV{
+
+    margin-top:27%!important;
+
+}
+
+.whatsapp-chat{
+    bottom: 10px;
+    left: 10px;
+    position: fixed;
+    z-index: 99999999;
+}
+
+#search-bar-id::placeholder {
+    color: black;
+    opacity: 0.3!important; /* Firefox */
+  }

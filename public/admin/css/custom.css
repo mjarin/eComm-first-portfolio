@@ -1,0 +1,49 @@
+.cate-img{
+    height:70px !important;
+    width:80px !important;
+}
+
+.navbar-vertical.navbar-expand-xs .navbar-collapse {
+    display: block;
+    overflow: auto;
+    height:auto!important; 
+}
+
+.border-radius-xl {
+    border-radius: 0!important;
+}
+
+.form-select {
+    display: block;
+    width: 100%;
+    padding: 0.375rem .375rem 0.75rem 0;
+    -moz-padding-start: -3px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    color: #495057;
+    background-color: transparent;
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e);
+    background-repeat: no-repeat;
+    background-position: right 0 center;
+    background-size: 16px 12px;
+    border: 1px solid #d2d6da;
+    border-radius: 0.375rem;
+    transition: 0.2s ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.custom-btn-admin > a:hover{
+    color: #28a745!important;
+}
+
+#sidenav-main{
+
+    margin-top: 3.9%!important;
+    margin-left:0px!important;
+    padding-left: 0!important;
+    min-height: 100vh;
+
+}
